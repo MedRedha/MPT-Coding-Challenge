@@ -13,8 +13,6 @@
 
 <p align="center">
     <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Nebula-Team/RN-Widget-Template?style=flat&color=blueviolet&label=Version&logo=GitHub">
-    <img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/Nebula-Team/RN-Widget-Template/react-native?style=flat&label=React%20Native&logo=React" />
-    <img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/Nebula-Team/RN-Widget-Template/dev/typescript?style=flat&color=informational&label=TypeScript&logo=TypeScript" />
 </p>
 
 ## Purpose
